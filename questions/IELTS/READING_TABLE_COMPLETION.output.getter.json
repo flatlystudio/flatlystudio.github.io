@@ -1,0 +1,71 @@
+```json
+{
+  "passageTitle": "The Evolution of Cinema: A Journey Through Time",
+  "passageText": "The origins of cinema can be traced back to the late 19th century, building on earlier experiments with still photography and motion. While inventors like Thomas Edison developed peep-show devices such as the Kinetoscope, it was the French Lumière brothers, Auguste and Louis, who are widely credited with projecting motion pictures onto a screen. Their pivotal moment came with the first public screening of projected motion pictures in Paris on December 28, 1895, marking cinema's official birth and setting the stage for its global spread.\n\nThe early 20th century saw cinema evolve from a novelty into a sophisticated narrative art form. Filmmakers like Georges Méliès experimented with special effects, while D.W. Griffith’s *The Birth of a Nation* (1915) established filmmaking as a powerful storytelling medium, albeit controversially. The Roaring Twenties, often considered the silent film era's artistic peak, showcased masterpieces by directors like Fritz Lang (*Metropolis*) and Charlie Chaplin (*The Gold Rush*). However, the most revolutionary development was the introduction of sound into motion pictures. With the release of *The Jazz Singer* in 1927, 'talkies' swiftly superseded silent films, changing production and viewing habits forever.\n\nThe 1930s and 1940s are widely known as the 'Golden Age of Hollywood', an era defined by the powerful studio system. Major studios like MGM, Warner Bros., and 20th Century Fox controlled every aspect of filmmaking, from production to exhibition, leading to an unprecedented output of films. Technological advancements included the widespread adoption of Technicolor, bringing vibrant hues to the screen. Films like *The Wizard of Oz* (1939) and *Casablanca* (1942) became synonymous with this golden era, embodying the industry's newfound maturity.\n\nThe 1950s presented a significant challenge to the film industry with the advent of television. To combat TV's growing popularity and lure audiences back to theaters, Hollywood introduced new viewing experiences. This included widescreen formats like CinemaScope and VistaVision, offering a more immersive visual experience, and a brief resurgence of 3D films. The epic *Lawrence of Arabia* (1962), though released slightly later, is a prime example of the visual grandeur enabled by these advancements.\n\nThe 1970s marked a period of transformation, with the rise of the 'New Hollywood' movement, characterized by auteur directors and more complex narratives. Simultaneously, this period ushered in the era of the 'blockbuster', fundamentally changing the industry's economic model. The *Jaws* release in 1975, followed by *Star Wars* in 1977, set new box office records and redefined mass entertainment, leading to a focus on high-concept, widely appealing films.\n\nThe 21st century has been defined by the digital revolution. Digital cameras, editing software, and advanced visual effects became standard, pushing creative boundaries as seen in films like *Avatar* (2009). Beyond production, distribution underwent a radical shift with the rise of streaming services like Netflix and Hulu, fundamentally altering how audiences access and consume content, leading to a new era of global, on-demand entertainment and immersive experiences like virtual reality cinema.",
+  "tableTitle": "Key Developments in Cinema History",
+  "columnHeaders": ["Decade", "Key Development", "Notable Film/Event"],
+  "rows": [
+    {
+      "id": "row1",
+      "Decade": "Late 19th Century",
+      "Key Development": "Invention of cinema",
+      "Notable Film/Event": {
+        "questionId": "q1",
+        "placeholder": "34 .....",
+        "correctAnswer": "first public screening"
+      }
+    },
+    {
+      "id": "row2",
+      "Decade": "1920s",
+      "Key Development": {
+        "questionId": "q2",
+        "placeholder": "34 .....",
+        "correctAnswer": "introduction of sound"
+      },
+      "Notable Film/Event": "The Jazz Singer"
+    },
+    {
+      "id": "row3",
+      "Decade": "1930s-1940s",
+      "Key Development": "Golden Age of Hollywood",
+      "Notable Film/Event": {
+        "questionId": "q3",
+        "placeholder": "34 .....",
+        "correctAnswer": "Casablanca"
+      }
+    },
+    {
+      "id": "row4",
+      "Decade": "1950s",
+      "Key Development": {
+        "questionId": "q4",
+        "placeholder": "34 .....",
+        "correctAnswer": "Widescreen formats"
+      },
+      "Notable Film/Event": "Lawrence of Arabia"
+    },
+    {
+      "id": "row5",
+      "Decade": "1970s",
+      "Key Development": "Blockbuster era begins",
+      "Notable Film/Event": {
+        "questionId": "q5",
+        "placeholder": "34 .....",
+        "correctAnswer": "Jaws release"
+      }
+    },
+    {
+      "id": "row6",
+      "Decade": "2000s and Beyond",
+      "Key Development": "Digital filmmaking & streaming",
+      "Notable Film/Event": {
+        "questionId": "q6",
+        "placeholder": "34 .....",
+        "correctAnswer": "rise of streaming"
+      }
+    }
+  ],
+  "wordLimit": 3
+}
+```

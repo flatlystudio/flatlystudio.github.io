@@ -1,0 +1,277 @@
+Berikut adalah 20 soal literasi bahasa Inggris yang mencakup berbagai topik seperti vocabulary, reading comprehension, inference, idioms, dan grammar.
+
+```json
+{
+  "questions": [
+    {
+      "id": "el_q1",
+      "questionText": "In the context of the passage, the word 'ubiquitous' most nearly means:",
+      "topic": "Vocabulary",
+      "passage": "The ubiquitous nature of social media has fundamentally altered how we perceive and interact with information...",
+      "options": [
+        { "id": "a", "text": "rare and valuable" },
+        { "id": "b", "text": "present everywhere" },
+        { "id": "c", "text": "technologically advanced" },
+        { "id": "d", "text": "socially acceptable" }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "Ubiquitous means present, appearing, or found everywhere. The context suggests social media's widespread presence."
+    },
+    {
+      "id": "el_q2",
+      "questionText": "What is the main idea of the passage?",
+      "topic": "Reading Comprehension",
+      "passage": "The development of artificial intelligence has led to significant advancements in various fields, including healthcare, finance, and transportation. However, concerns about job displacement and ethical implications have also arisen.",
+      "options": [
+        { "id": "a", "text": "AI has only positive impacts on society" },
+        { "id": "b", "text": "AI has led to advancements in various fields" },
+        { "id": "c", "text": "AI has no impact on employment" },
+        { "id": "d", "text": "AI is a threat to humanity" }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "The passage discusses the advancements and concerns related to AI, making option b the most accurate main idea."
+    },
+    {
+      "id": "el_q3",
+      "questionText": "The phrase 'break a leg' is an example of:",
+      "topic": "Idioms",
+      "options": [
+        { "id": "a", "text": "a literal expression" },
+        { "id": "b", "text": "an idiomatic expression" },
+        { "id": "c", "text": "a colloquialism" },
+        { "id": "d", "text": "a euphemism" }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "Break a leg is an idiomatic expression that means 'good luck', making option b the correct answer."
+    },
+    {
+      "id": "el_q4",
+      "questionText": "The sentence 'If I had studied harder, I would have passed the exam' is an example of:",
+      "topic": "Grammar",
+      "options": [
+        { "id": "a", "text": "present tense" },
+        { "id": "b", "text": "past tense" },
+        { "id": "c", "text": "conditional sentence" },
+        { "id": "d", "text": "subjunctive mood" }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "The sentence is a conditional sentence expressing a hypothetical past situation, making option c the correct answer."
+    },
+    {
+      "id": "el_q5",
+      "questionText": "What can be inferred from the passage about the impact of climate change?",
+      "topic": "Inference",
+      "passage": "Rising temperatures and changing precipitation patterns are altering ecosystems, leading to loss of biodiversity and disruptions to food systems.",
+      "options": [
+        { "id": "a", "text": "Climate change has no impact on ecosystems" },
+        { "id": "b", "text": "Climate change leads to increased biodiversity" },
+        { "id": "c", "text": "Climate change disrupts food systems" },
+        { "id": "d", "text": "Climate change has only positive impacts" }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "The passage implies that climate change has negative impacts on ecosystems and food systems, making option c a logical inference."
+    },
+    {
+      "id": "el_q6",
+      "questionText": "The word 'perspicacious' means:",
+      "topic": "Vocabulary",
+      "options": [
+        { "id": "a", "text": "having a strong and unpleasant smell" },
+        { "id": "b", "text": "having a keen understanding and insight" },
+        { "id": "c", "text": "relating to the study of the universe" },
+        { "id": "d", "text": "characterized by a strong and bitter taste" }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "Perspicacious means having a keen understanding and insight, making option b the correct answer."
+    },
+    {
+      "id": "el_q7",
+      "questionText": "The passage suggests that the author believes:",
+      "topic": "Reading Comprehension",
+      "passage": "The benefits of meditation, including reduced stress and increased focus, make it an attractive practice for individuals seeking to improve their mental well-being.",
+      "options": [
+        { "id": "a", "text": "meditation is only for relaxation" },
+        { "id": "b", "text": "meditation has numerous benefits for mental well-being" },
+        { "id": "c", "text": "meditation is a waste of time" },
+        { "id": "d", "text": "meditation is only for spiritual purposes" }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "The passage highlights the benefits of meditation for mental well-being, making option b the most accurate interpretation of the author's belief."
+    },
+    {
+      "id": "el_q8",
+      "questionText": "The idiom 'cost an arm and a leg' means:",
+      "topic": "Idioms",
+      "options": [
+        { "id": "a", "text": "to be very expensive" },
+        { "id": "b", "text": "to be very cheap" },
+        { "id": "c", "text": "to lose a limb" },
+        { "id": "d", "text": "to gain a advantage" }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "The idiom 'cost an arm and a leg' means something is very expensive, making option a the correct answer."
+    },
+    {
+      "id": "el_q9",
+      "questionText": "The sentence 'The new policy, which was implemented last year, has had a significant impact on the company's profits' is an example of:",
+      "topic": "Grammar",
+      "options": [
+        { "id": "a", "text": "simple sentence" },
+        { "id": "b", "text": "compound sentence" },
+        { "id": "c", "text": "complex sentence" },
+        { "id": "d", "text": "compound-complex sentence" }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "The sentence contains an independent clause and a dependent clause, making it a complex sentence and option c the correct answer."
+    },
+    {
+      "id": "el_q10",
+      "questionText": "What can be inferred about the author's attitude towards technology?",
+      "topic": "Inference",
+      "passage": "While technology has brought many benefits, it also has its drawbacks, such as decreased face-to-face interaction and increased dependency.",
+      "options": [
+        { "id": "a", "text": "The author is completely against technology" },
+        { "id": "b", "text": "The author is neutral about technology" },
+        { "id": "c", "text": "The author acknowledges both benefits and drawbacks of technology" },
+        { "id": "d", "text": "The author believes technology has only positive impacts" }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "The passage suggests that the author recognizes both the benefits and drawbacks of technology, making option c a logical inference."
+    },
+    {
+      "id": "el_q11",
+      "questionText": "The word 'fastidious' means:",
+      "topic": "Vocabulary",
+      "options": [
+        { "id": "a", "text": "careless and sloppy" },
+        { "id": "b", "text": "meticulous and demanding" },
+        { "id": "c", "text": "quick and efficient" },
+        { "id": "d", "text": "strong and powerful" }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "Fastidious means meticulous and demanding, making option b the correct answer."
+    },
+    {
+      "id": "el_q12",
+      "questionText": "The passage implies that:",
+      "topic": "Reading Comprehension",
+      "passage": "The increasing demand for renewable energy sources has led to significant investments in solar and wind power.",
+      "options": [
+        { "id": "a", "text": "renewable energy sources are no longer needed" },
+        { "id": "b", "text": "investments in renewable energy are decreasing" },
+        { "id": "c", "text": "there is a growing demand for renewable energy sources" },
+        { "id": "d", "text": "solar and wind power are no longer viable options" }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "The passage suggests that there is a growing demand for renewable energy sources, making option c the most accurate interpretation."
+    },
+    {
+      "id": "el_q13",
+      "questionText": "The idiom 'bite off more than you can chew' means:",
+      "topic": "Idioms",
+      "options": [
+        { "id": "a", "text": "to take on more responsibility than you can handle" },
+        { "id": "b", "text": "to eat too much food" },
+        { "id": "c", "text": "to speak too loudly" },
+        { "id": "d", "text": "to work too hard" }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "The idiom 'bite off more than you can chew' means to take on more responsibility than you can handle, making option a the correct answer."
+    },
+    {
+      "id": "el_q14",
+      "questionText": "The sentence 'If I were you, I would not do that' is an example of:",
+      "topic": "Grammar",
+      "options": [
+        { "id": "a", "text": "present tense" },
+        { "id": "b", "text": "past tense" },
+        { "id": "c", "text": "subjunctive mood" },
+        { "id": "d", "text": "conditional sentence" }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "The sentence is in the subjunctive mood, expressing a hypothetical or uncertain situation, making option c the correct answer."
+    },
+    {
+      "id": "el_q15",
+      "questionText": "What can be inferred about the impact of social media on relationships?",
+      "topic": "Inference",
+      "passage": "While social media has made it easier to connect with others, it has also led to decreased face-to-face interaction and deepened feelings of loneliness.",
+      "options": [
+        { "id": "a", "text": "social media has only positive impacts on relationships" },
+        { "id": "b", "text": "social media has only negative impacts on relationships" },
+        { "id": "c", "text": "social media has both positive and negative impacts on relationships" },
+        { "id": "d", "text": "social media has no impact on relationships" }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "The passage suggests that social media has both positive and negative impacts on relationships, making option c a logical inference."
+    },
+    {
+      "id": "el_q16",
+      "questionText": "The word 'nuance' means:",
+      "topic": "Vocabulary",
+      "options": [
+        { "id": "a", "text": "a subtle difference or shade of meaning" },
+        { "id": "b", "text": "a loud and obvious difference" },
+        { "id": "c", "text": "a type of artistic expression" },
+        { "id": "d", "text": "a scientific term" }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "Nuance means a subtle difference or shade of meaning, making option a the correct answer."
+    },
+    {
+      "id": "el_q17",
+      "questionText": "The passage suggests that the author:",
+      "topic": "Reading Comprehension",
+      "passage": "The benefits of exercise, including improved physical health and increased mental well-being, make it an essential part of a healthy lifestyle.",
+      "options": [
+        { "id": "a", "text": "believes exercise is only for physical health" },
+        { "id": "b", "text": "believes exercise has numerous benefits for overall health" },
+        { "id": "c", "text": "believes exercise is not important" },
+        { "id": "d", "text": "believes exercise is only for mental well-being" }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "The passage highlights the benefits of exercise for overall health, making option b the most accurate interpretation of the author's belief."
+    },
+    {
+      "id": "el_q18",
+      "questionText": "The idiom 'cut to the chase' means:",
+      "topic": "Idioms",
+      "options": [
+        { "id": "a", "text": "to get to the point or the most interesting part" },
+        { "id": "b", "text": "to skip the introduction" },
+        { "id": "c", "text": "to add more details" },
+        { "id": "d", "text": "to end the conversation" }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "The idiom 'cut to the chase' means to get to the point or the most interesting part, making option a the correct answer."
+    },
+    {
+      "id": "el_q19",
+      "questionText": "The sentence 'Having studied all night, I felt exhausted' is an example of:",
+      "topic": "Grammar",
+      "options": [
+        { "id": "a", "text": "simple sentence" },
+        { "id": "b", "text": "complex sentence" },
+        { "id": "c", "text": "compound sentence" },
+        { "id": "d", "text": "compound-complex sentence" }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "The sentence contains an independent clause and a dependent clause, making it a complex sentence and option b the correct answer."
+    },
+    {
+      "id": "el_q20",
+      "questionText": "What can be inferred about the author's purpose in writing the passage?",
+      "topic": "Inference",
+      "passage": "The importance of preserving natural habitats cannot be overstated. Human activities, such as deforestation and pollution, have severe consequences for the environment and wildlife.",
+      "options": [
+        { "id": "a", "text": "to entertain the reader" },
+        { "id": "b", "text": "to persuade the reader to take action" },
+        { "id": "c", "text": "to inform the reader about a topic" },
+        { "id": "d", "text": "to criticize the reader" }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "The passage suggests that the author's purpose is to persuade the reader to take action to preserve natural habitats, making option b a logical inference."
+    }
+  ]
+}
+```

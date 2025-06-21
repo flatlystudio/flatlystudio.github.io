@@ -1,0 +1,146 @@
+Berikut adalah 10 soal Penalaran Induktif untuk Seleksi Nasional Berdasarkan Tes (SNBT) di Indonesia:
+
+```json
+[
+  {
+    "id": "pi_q1",
+    "question_text": "Semua karyawan di perusahaan X mendapatkan gaji pokok sebesar Rp 5.000.000 per bulan. Karyawan A bekerja di perusahaan X. Maka kesimpulan yang paling tepat adalah...",
+    "topic": "Generalisasi",
+    "options": [
+      { "id": "a", "text": "Karyawan A tidak mendapatkan gaji pokok." },
+      { "id": "b", "text": "Karyawan A mendapatkan gaji pokok sebesar Rp 5.000.000 per bulan." },
+      { "id": "c", "text": "Semua karyawan di perusahaan X tidak mendapatkan gaji pokok." },
+      { "id": "d", "text": "Gaji pokok karyawan A tidak dapat ditentukan." },
+      { "id": "e", "text": "Karyawan A mendapatkan gaji pokok sebesar Rp 10.000.000 per bulan." }
+    ],
+    "correct_answer_id": "b",
+    "explanation": "Ini adalah contoh generalisasi. Karena semua karyawan di perusahaan X mendapatkan gaji pokok sebesar Rp 5.000.000 per bulan, maka karyawan A juga mendapatkan gaji pokok sebesar Rp 5.000.000 per bulan."
+  },
+  {
+    "id": "pi_q2",
+    "question_text": "Air : Cair = Es : ?",
+    "topic": "Analogi",
+    "options": [
+      { "id": "a", "text": "Padat" },
+      { "id": "b", "text": "Gas" },
+      { "id": "c", "text": "Cair" },
+      { "id": "d", "text": "Hidup" },
+      { "id": "e", "text": "Mati" }
+    ],
+    "correct_answer_id": "a",
+    "explanation": "Ini adalah contoh analogi. Air dalam keadaan cair, maka es dalam keadaan padat."
+  },
+  {
+    "id": "pi_q3",
+    "question_text": "Jika seseorang melakukan olahraga secara teratur, maka kesehatannya akan meningkat. Andi melakukan olahraga secara teratur. Maka kesimpulan yang paling tepat adalah...",
+    "topic": "Sebab-Akibat",
+    "options": [
+      { "id": "a", "text": "Kesehatan Andi tidak akan meningkat." },
+      { "id": "b", "text": "Kesehatan Andi akan meningkat." },
+      { "id": "c", "text": "Andi tidak melakukan olahraga secara teratur." },
+      { "id": "d", "text": "Tidak dapat disimpulkan." },
+      { "id": "e", "text": "Andi akan menjadi tidak sehat." }
+    ],
+    "correct_answer_id": "b",
+    "explanation": "Ini adalah contoh sebab-akibat. Jika seseorang melakukan olahraga secara teratur, maka kesehatannya akan meningkat. Maka, jika Andi melakukan olahraga secara teratur, kesehatannya akan meningkat."
+  },
+  {
+    "id": "pi_q4",
+    "question_text": "Semua mobil di kota X memiliki mesin yang sama. Mobil A adalah mobil di kota X. Maka kesimpulan yang paling tepat adalah...",
+    "topic": "Generalisasi",
+    "options": [
+      { "id": "a", "text": "Mobil A tidak memiliki mesin yang sama dengan mobil lainnya." },
+      { "id": "b", "text": "Mobil A memiliki mesin yang sama dengan mobil lainnya di kota X." },
+      { "id": "c", "text": "Semua mobil di kota X memiliki mesin yang berbeda." },
+      { "id": "d", "text": "Tidak dapat disimpulkan." },
+      { "id": "e", "text": "Mobil A memiliki mesin yang unik." }
+    ],
+    "correct_answer_id": "b",
+    "explanation": "Ini adalah contoh generalisasi. Karena semua mobil di kota X memiliki mesin yang sama, maka mobil A juga memiliki mesin yang sama dengan mobil lainnya di kota X."
+  },
+  {
+    "id": "pi_q5",
+    "question_text": "Bunga Mawar : Taman = Buku : ?",
+    "topic": "Analogi",
+    "options": [
+      { "id": "a", "text": "Perpustakaan" },
+      { "id": "b", "text": "Taman" },
+      { "id": "c", "text": "Kelas" },
+      { "id": "d", "text": "Rumah" },
+      { "id": "e", "text": "Jalan" }
+    ],
+    "correct_answer_id": "a",
+    "explanation": "Ini adalah contoh analogi. Bunga mawar biasanya ditemukan di taman, maka buku biasanya ditemukan di perpustakaan."
+  },
+  {
+    "id": "pi_q6",
+    "question_text": "Jika seseorang tidak memiliki asuransi kesehatan, maka ia akan mengalami kesulitan keuangan jika sakit. Andi tidak memiliki asuransi kesehatan. Maka kesimpulan yang paling tepat adalah...",
+    "topic": "Sebab-Akibat",
+    "options": [
+      { "id": "a", "text": "Andi tidak akan mengalami kesulitan keuangan jika sakit." },
+      { "id": "b", "text": "Andi akan mengalami kesulitan keuangan jika sakit." },
+      { "id": "c", "text": "Andi memiliki asuransi kesehatan." },
+      { "id": "d", "text": "Tidak dapat disimpulkan." },
+      { "id": "e", "text": "Andi tidak akan sakit." }
+    ],
+    "correct_answer_id": "b",
+    "explanation": "Ini adalah contoh sebab-akibat. Jika seseorang tidak memiliki asuransi kesehatan, maka ia akan mengalami kesulitan keuangan jika sakit. Maka, jika Andi tidak memiliki asuransi kesehatan, ia akan mengalami kesulitan keuangan jika sakit."
+  },
+  {
+    "id": "pi_q7",
+    "question_text": "Semua siswa di sekolah X mendapatkan beasiswa. Siswa A adalah siswa di sekolah X. Maka kesimpulan yang paling tepat adalah...",
+    "topic": "Generalisasi",
+    "options": [
+      { "id": "a", "text": "Siswa A tidak mendapatkan beasiswa." },
+      { "id": "b", "text": "Siswa A mendapatkan beasiswa." },
+      { "id": "c", "text": "Semua siswa di sekolah X tidak mendapatkan beasiswa." },
+      { "id": "d", "text": "Tidak dapat disimpulkan." },
+      { "id": "e", "text": "Siswa A mendapatkan beasiswa yang besar." }
+    ],
+    "correct_answer_id": "b",
+    "explanation": "Ini adalah contoh generalisasi. Karena semua siswa di sekolah X mendapatkan beasiswa, maka siswa A juga mendapatkan beasiswa."
+  },
+  {
+    "id": "pi_q8",
+    "question_text": "Gajah : Besar = Kucing : ?",
+    "topic": "Analogi",
+    "options": [
+      { "id": "a", "text": "Kecil" },
+      { "id": "b", "text": "Besar" },
+      { "id": "c", "text": "Panjang" },
+      { "id": "d", "text": "Pendek" },
+      { "id": "e", "text": "Berat" }
+    ],
+    "correct_answer_id": "a",
+    "explanation": "Ini adalah contoh analogi. Gajah dikenal besar, maka kucing dikenal kecil."
+  },
+  {
+    "id": "pi_q9",
+    "question_text": "Jika seseorang memiliki tabungan yang cukup, maka ia dapat membeli rumah impian. Andi memiliki tabungan yang cukup. Maka kesimpulan yang paling tepat adalah...",
+    "topic": "Sebab-Akibat",
+    "options": [
+      { "id": "a", "text": "Andi tidak dapat membeli rumah impian." },
+      { "id": "b", "text": "Andi dapat membeli rumah impian." },
+      { "id": "c", "text": "Andi tidak memiliki tabungan yang cukup." },
+      { "id": "d", "text": "Tidak dapat disimpulkan." },
+      { "id": "e", "text": "Andi akan membeli rumah impian besok." }
+    ],
+    "correct_answer_id": "b",
+    "explanation": "Ini adalah contoh sebab-akibat. Jika seseorang memiliki tabungan yang cukup, maka ia dapat membeli rumah impian. Maka, jika Andi memiliki tabungan yang cukup, ia dapat membeli rumah impian."
+  },
+  {
+    "id": "pi_q10",
+    "question_text": "Semua atlet di tim X memiliki kemampuan yang sama. Atlet A adalah atlet di tim X. Maka kesimpulan yang paling tepat adalah...",
+    "topic": "Generalisasi",
+    "options": [
+      { "id": "a", "text": "Atlet A tidak memiliki kemampuan yang sama dengan atlet lainnya." },
+      { "id": "b", "text": "Atlet A memiliki kemampuan yang sama dengan atlet lainnya di tim X." },
+      { "id": "c", "text": "Semua atlet di tim X memiliki kemampuan yang berbeda." },
+      { "id": "d", "text": "Tidak dapat disimpulkan." },
+      { "id": "e", "text": "Atlet A memiliki kemampuan yang unik." }
+    ],
+    "correct_answer_id": "b",
+    "explanation": "Ini adalah contoh generalisasi. Karena semua atlet di tim X memiliki kemampuan yang sama, maka atlet A juga memiliki kemampuan yang sama dengan atlet lainnya di tim X."
+  }
+]
+```

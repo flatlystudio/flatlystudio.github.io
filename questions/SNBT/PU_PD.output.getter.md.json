@@ -1,0 +1,129 @@
+Berikut adalah 10 soal Penalaran Umum Penalaran Deduktif dalam format JSON:
+
+```json
+{
+  "questions": [
+    {
+      "id": "q1",
+      "questionText": "Premis 1: Jika sebuah bilangan habis dibagi 3, maka bilangan tersebut adalah bilangan ganjil. Premis 2: Bilangan 9 habis dibagi 3. Kesimpulan:?",
+      "options": [
+        {"id": "a", "text": "Bilangan 9 adalah bilangan ganjil"},
+        {"id": "b", "text": "Bilangan 9 adalah bilangan genap"},
+        {"id": "c", "text": "Bilangan 9 tidak habis dibagi 3"},
+        {"id": "d", "text": "Bilangan 9 adalah bilangan prima"}
+      ],
+      "correctAnswerId": "a",
+      "questionType": "Syllogism"
+    },
+    {
+      "id": "q2",
+      "questionText": "Pernyataan 'Jika P maka Q' ekuivalen dengan:",
+      "options": [
+        {"id": "a", "text": "~P atau Q"},
+        {"id": "b", "text": "P dan ~Q"},
+        {"id": "c", "text": "~P dan Q"},
+        {"id": "d", "text": "P atau ~Q"}
+      ],
+      "correctAnswerId": "a",
+      "questionType": "Equivalence",
+      "explanation": "Pernyataan 'Jika P maka Q' ekuivalen dengan '~P atau Q' berdasarkan logika proposisional."
+    },
+    {
+      "id": "q3",
+      "questionText": "Negasi dari 'Semua siswa kelas 10 memiliki rapor yang baik' adalah:",
+      "options": [
+        {"id": "a", "text": "Ada siswa kelas 10 yang tidak memiliki rapor yang baik"},
+        {"id": "b", "text": "Semua siswa kelas 10 tidak memiliki rapor yang baik"},
+        {"id": "c", "text": "Tidak ada siswa kelas 10 yang memiliki rapor yang baik"},
+        {"id": "d", "text": "Semua siswa kelas 10 memiliki rapor yang buruk"}
+      ],
+      "correctAnswerId": "a",
+      "questionType": "Negation"
+    },
+    {
+      "id": "q4",
+      "questionText": "Premis 1: Semua atlet memiliki stamina yang baik. Premis 2: Andi adalah atlet. Kesimpulan:?",
+      "options": [
+        {"id": "a", "text": "Andi memiliki stamina yang baik"},
+        {"id": "b", "text": "Andi tidak memiliki stamina yang baik"},
+        {"id": "c", "text": "Andi bukan atlet"},
+        {"id": "d", "text": "Andi memiliki rapor yang baik"}
+      ],
+      "correctAnswerId": "a",
+      "questionType": "Syllogism"
+    },
+    {
+      "id": "q5",
+      "questionText": "Pernyataan 'Jika hari ini hujan, maka jalanan basah' dapat diubah menjadi:",
+      "options": [
+        {"id": "a", "text": "Jika jalanan basah, maka hari ini hujan"},
+        {"id": "b", "text": "Jika hari ini tidak hujan, maka jalanan tidak basah"},
+        {"id": "c", "text": "Jika jalanan tidak basah, maka hari ini tidak hujan"},
+        {"id": "d", "text": "Hari ini hujan atau jalanan basah"}
+      ],
+      "correctAnswerId": "c",
+      "questionType": "Equivalence"
+    },
+    {
+      "id": "q6",
+      "questionText": "Premis 1: Jika sebuah segitiga memiliki sudut 90 derajat, maka segitiga tersebut adalah segitiga siku-siku. Premis 2: Segitiga ABC memiliki sudut 90 derajat. Kesimpulan:?",
+      "options": [
+        {"id": "a", "text": "Segitiga ABC adalah segitiga siku-siku"},
+        {"id": "b", "text": "Segitiga ABC tidak memiliki sudut 90 derajat"},
+        {"id": "c", "text": "Segitiga ABC memiliki sudut 60 derajat"},
+        {"id": "d", "text": "Segitiga ABC adalah segitiga sama sisi"}
+      ],
+      "correctAnswerId": "a",
+      "questionType": "Syllogism"
+    },
+    {
+      "id": "q7",
+      "questionText": "Kesimpulan yang logis dari premis-premis berikut adalah: Semua burung dapat terbang. Semuanya unggas dapat terbang.?",
+      "options": [
+        {"id": "a", "text": "Semua unggas adalah burung"},
+        {"id": "b", "text": "Semua burung adalah unggas"},
+        {"id": "c", "text": "Tidak ada unggas yang dapat terbang"},
+        {"id": "d", "text": "Semua hewan dapat terbang"}
+      ],
+      "correctAnswerId": "a",
+      "questionType": "Conclusion"
+    },
+    {
+      "id": "q8",
+      "questionText": "Pernyataan 'Semua mahasiswa memiliki kartu mahasiswa' dapat diubah menjadi:",
+      "options": [
+        {"id": "a", "text": "Jika seseorang memiliki kartu mahasiswa, maka dia adalah mahasiswa"},
+        {"id": "b", "text": "Jika seseorang bukan mahasiswa, maka dia tidak memiliki kartu mahasiswa"},
+        {"id": "c", "text": "Semua orang memiliki kartu mahasiswa"},
+        {"id": "d", "text": "Tidak ada mahasiswa yang tidak memiliki kartu mahasiswa"}
+      ],
+      "correctAnswerId": "d",
+      "questionType": "Equivalence"
+    },
+    {
+      "id": "q9",
+      "questionText": "Premis 1: Jika P maka Q. Premis 2: ~Q. Kesimpulan:?",
+      "options": [
+        {"id": "a", "text": "~P"},
+        {"id": "b", "text": "P"},
+        {"id": "c", "text": "Q"},
+        {"id": "d", "text": "~Q atau P"}
+      ],
+      "correctAnswerId": "a",
+      "questionType": "Syllogism"
+    },
+    {
+      "id": "q10",
+      "questionText": "Kesimpulan yang logis dari premis-premis berikut adalah: Semua siswa kelas 10 harus mengikuti ujian akhir. Andi adalah siswa kelas 10.?",
+      "options": [
+        {"id": "a", "text": "Andi harus mengikuti ujian akhir"},
+        {"id": "b", "text": "Andi tidak harus mengikuti ujian akhir"},
+        {"id": "c", "text": "Semua siswa harus mengikuti ujian akhir"},
+        {"id": "d", "text": "Tidak ada siswa kelas 10 yang harus mengikuti ujian akhir"}
+      ],
+      "correctAnswerId": "a",
+      "questionType": "Conclusion"
+    }
+  ]
+}
+```

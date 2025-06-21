@@ -1,0 +1,60 @@
+```json
+{
+  "passageTitle": "The Shifting Landscape of Interpersonal Communication in the Digital Age",
+  "passageText": "The advent and pervasive integration of social media platforms into daily life have undeniably reshaped the dynamics of human interaction. Initially lauded for their potential to bridge geographical distances and foster global connectivity, these platforms promised an era of unprecedented social cohesion. However, a deeper analysis reveals a more complex narrative, where the quantitative expansion of connections often comes at the expense of qualitative depth in interpersonal communication.\n\nOne of the most profound shifts observed is the gradual erosion of face-to-face interaction in favour of text-based or emoji-driven exchanges. While digital communication offers convenience and immediacy, it inherently strips away crucial non-verbal cues – such as tone of voice, body language, and facial expressions – which are fundamental components of human empathy and understanding. Misinterpretations become more prevalent, and the nuances of genuine human emotion are often lost in translation, leading to a superficiality that belies the apparent constant 'connection.'\n\nFurthermore, the curated nature of online identities and the omnipresent 'highlight reels' of others' lives have introduced new psychological pressures. Users are frequently exposed to idealised versions of reality, prompting upward social comparison and fostering feelings of inadequacy. This phenomenon, often termed 'Fear of Missing Out' (FOMO) or social anxiety, can paradoxically isolate individuals despite their hyper-connectivity. The constant pursuit of validation through likes and comments can also divert attention from authentic engagement to a performance-oriented presence, further diluting the quality of interaction.\n\nMoreover, the very architecture of social media platforms encourages brevity and rapid exchanges. Character limits, the demand for instant gratification, and the fleeting nature of online trends often prioritise concise, attention-grabbing content over thoughtful deliberation. This environment can inadvertently diminish individuals' patience for nuanced discussions and complex arguments, leading to a decline in the ability to engage in prolonged, empathetic, and constructive dialogue. The emphasis shifts from understanding to reaction, from listening to broadcasting.\n\nWhile social media platforms facilitate the maintenance of weak ties and allow for broad dissemination of information, their long-term impact on the bedrock of deep, meaningful interpersonal relationships warrants critical examination. The ease of initiating contact might obscure the effort required to sustain genuine connections, which typically demand shared experiences, vulnerability, and sustained, high-quality interaction. The digital realm, while an extension of our social lives, cannot fully replicate the richness and complexity of real-world human connection. As society continues to navigate this digital evolution, understanding these shifts is paramount for fostering healthier communication habits in the future.",
+  "taskTitle": "Complete each sentence with the correct ending, A-F.",
+  "instructions": "Choose the correct letter, A-F, and write it next to questions 1-4.",
+  "sentenceBeginnings": [
+    {
+      "id": "q1",
+      "questionNumber": 1,
+      "beginningText": "Despite initial hopes that social media would improve global interaction,",
+      "correctEndingLetter": "A"
+    },
+    {
+      "id": "q2",
+      "questionNumber": 2,
+      "beginningText": "The increased reliance on digital forms of communication",
+      "correctEndingLetter": "B"
+    },
+    {
+      "id": "q3",
+      "questionNumber": 3,
+      "beginningText": "The continuous display of idealised online lives",
+      "correctEndingLetter": "D"
+    },
+    {
+      "id": "q4",
+      "questionNumber": 4,
+      "beginningText": "The design of social media platforms, which favours short messages,",
+      "correctEndingLetter": "F"
+    }
+  ],
+  "sentenceEndings": [
+    {
+      "letter": "A",
+      "text": "it has led to a reduction in the depth of personal relationships."
+    },
+    {
+      "letter": "B",
+      "text": "can hinder people's capacity to interpret essential non-verbal signals."
+    },
+    {
+      "letter": "C",
+      "text": "facilitates the effortless establishment of profound and lasting bonds."
+    },
+    {
+      "letter": "D",
+      "text": "frequently contributes to users experiencing feelings of inadequacy."
+    },
+    {
+      "letter": "E",
+      "text": "promotes an overall increase in patience for complex discussions."
+    },
+    {
+      "letter": "F",
+      "text": "may discourage the development of more detailed and nuanced conversations."
+    }
+  ]
+}
+```

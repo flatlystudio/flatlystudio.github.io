@@ -1,0 +1,72 @@
+```json
+{
+  "passageTitle": "Understanding the Driving Force: A Look at Major Theories of Motivation",
+  "passageText": "Motivation, in psychology, refers to the initiation, direction, intensity, and persistence of behavior. It’s the driving force behind all human actions, from the most basic biological functions to complex cognitive pursuits. Psychologists have long grappled with understanding what compels individuals to act, leading to the development of diverse theoretical frameworks, each offering a unique lens through which to view human motivation.\n\nOne of the earliest and most fundamental perspectives is **Drive Reduction Theory**, primarily associated with figures like Clark Hull. This theory posits that physiological needs (like hunger, thirst, or the need for warmth) create unpleasant internal states of tension, known as 'drives'. These drives motivate an individual to engage in behaviors that reduce the tension and restore a state of physiological balance, or 'homeostasis'. For instance, a feeling of thirst (the drive) compels a person to drink water, thereby reducing the drive and restoring fluid balance. While effective at explaining basic survival instincts and repetitive behaviours, critics argue that drive reduction theory struggles to account for behaviours not directly linked to fulfilling physiological needs, such as engaging in thrilling activities or pursuing knowledge without an immediate biological reward.\n\nMoving beyond purely biological impulses, **Cognitive Theories of Motivation** emphasize the role of thoughts, beliefs, expectations, and goals in shaping behaviour. Unlike theories that focus on unconscious forces or biological drives, cognitive perspectives suggest that individuals are active, rational processors of information who make conscious decisions about their actions. Key ideas within this framework include Expectancy-Value Theory, where motivation is seen as a product of an individual's belief that their effort will lead to a desired outcome (expectancy) and the value they place on that outcome. Similarly, Goal-Setting Theory highlights that specific, challenging, and achievable goals, coupled with feedback, significantly enhance performance and motivation. These theories underscore that individuals are driven by their interpretations of situations, their anticipated results, and their pursuit of meaningful objectives.\n\nFinally, **Humanistic Theories of Motivation** offer a more optimistic and growth-oriented view, focusing on inherent human needs for personal growth, self-fulfillment, and actualization. Abraham Maslow’s Hierarchy of Needs is a seminal example, suggesting that people are motivated to fulfill a series of needs, starting from basic physiological and safety requirements, progressing through belongingness and esteem, and culminating in self-actualization – the desire to achieve one’s full potential. Another prominent humanistic framework is Self-Determination Theory (SDT), which proposes three innate psychological needs: competence (the need to feel effective), autonomy (the need to feel in control of one’s life), and relatedness (the need to feel connected to others). According to humanistic views, individuals are not merely reacting to external stimuli or internal drives but are intrinsically motivated to engage in behaviors that promote their psychological well-being, personal development, and the realization of their unique capacities.",
+  "taskTitle": "Classify the following statements",
+  "instructions": "Classify the following statements according to which theory of motivation they describe. Write the correct letter, A, B or C, next to questions 1-8.",
+  "categories": [
+    {
+      "letter": "A",
+      "description": "Drive Reduction Theory"
+    },
+    {
+      "letter": "B",
+      "description": "Cognitive Theories of Motivation"
+    },
+    {
+      "letter": "C",
+      "description": "Humanistic Theories of Motivation"
+    }
+  ],
+  "itemsToClassify": [
+    {
+      "id": "item1",
+      "questionNumber": 1,
+      "statement": "An individual's actions are primarily driven by the need to return to a state of internal physiological equilibrium.",
+      "correctCategoryLetter": "A"
+    },
+    {
+      "id": "item2",
+      "questionNumber": 2,
+      "statement": "Motivation is influenced by personal beliefs about the feasibility and desirability of future outcomes.",
+      "correctCategoryLetter": "B"
+    },
+    {
+      "id": "item3",
+      "questionNumber": 3,
+      "statement": "The pursuit of self-actualization represents the highest level of motivational drive.",
+      "correctCategoryLetter": "C"
+    },
+    {
+      "id": "item4",
+      "questionNumber": 4,
+      "statement": "Unpleasant internal states, such as thirst, compel an organism to seek relief.",
+      "correctCategoryLetter": "A"
+    },
+    {
+      "id": "item5",
+      "questionNumber": 5,
+      "statement": "Setting specific, challenging, and attainable objectives can significantly boost an individual's drive.",
+      "correctCategoryLetter": "B"
+    },
+    {
+      "id": "item6",
+      "questionNumber": 6,
+      "statement": "The inherent needs for competence, autonomy, and feeling connected to others are fundamental motivators.",
+      "correctCategoryLetter": "C"
+    },
+    {
+      "id": "item7",
+      "questionNumber": 7,
+      "statement": "Human beings are active, rational processors of information who consciously decide their behaviours.",
+      "correctCategoryLetter": "B"
+    },
+    {
+      "id": "item8",
+      "questionNumber": 8,
+      "statement": "Motivation is generally seen as a means to reduce tension caused by an unmet biological requirement.",
+      "correctCategoryLetter": "A"
+    }
+  ]
+}
+```

@@ -1,0 +1,52 @@
+```json
+{
+  "passageTitle": "The Enduring Quest: A History of Renewable Energy Technologies",
+  "passageText": "The human relationship with energy has evolved dramatically, but reliance on natural phenomena for power is as ancient as civilisation itself. Before the advent of fossil fuels, wind, water, and sunlight were the primary energy sources, fundamental to daily life and societal advancement.\n\nAncient civilisations masterfully harnessed these natural elements. Wind power propelled sailing ships across vast oceans, facilitating trade and exploration, and later drove simple windmills used for grinding grain and pumping water in regions like Persia and China. Water power, too, was ingeniously utilised; early hydraulic systems provided irrigation, while watermills, prevalent across Europe and Asia, powered machinery for milling flour or processing textiles. Sunlight, perhaps the most ubiquitous energy source, was used passively for heating homes and drying crops. The Romans, for instance, designed public bathhouses with large south-facing windows to maximise heat from the sun's rays.\n\nThe Industrial Revolution, beginning in the late 18th century, marked a significant paradigm shift. The discovery and widespread exploitation of coal, and later oil and natural gas, offered unprecedented energy density and portability. This led to a rapid decline in the development and deployment of renewable technologies, as the seemingly limitless supply and ease of extraction of fossil fuels made them economically dominant.\n\nHowever, the late 19th century witnessed a nascent resurgence of interest in renewables, driven by visionary inventors. In the 1860s, French physicist Auguste Mouchout pioneered solar thermal technology, developing an early solar steam engine capable of powering pumps and even an ice-making machine. Simultaneously, photovoltaic technology began its journey: in 1883, American inventor Charles Fritts created the first selenium solar cell, a precursor to modern PV cells, though its efficiency was extremely low. Wind power also saw a transformation; in 1888, Charles F. Brush constructed the first automatically operating wind turbine for electricity generation in the United States, providing power to his mansion in Cleveland. Around the same time, Danish engineer Poul la Cour made significant contributions to the development of practical wind turbines for electricity, establishing experimental wind power plants.\n\nDespite these pioneering efforts, renewable energy remained largely a niche until the mid-20th century. The post-World War II economic boom further cemented fossil fuels' supremacy. However, a pivotal moment arrived in 1954, when Bell Labs developed the first practical silicon photovoltaic (PV) cell, initially intended for space applications. This invention laid the groundwork for the modern solar industry.\n\nThe true turning point for widespread renewable energy development came with the global energy crises of the 1970s. The sudden spikes in oil prices exposed the vulnerabilities of an economy reliant on a single, volatile energy source. This spurred governments worldwide to invest heavily in alternative energy research and development, particularly in solar and wind power. Consequently, significant advancements were made in material science, turbine design, and grid integration. Throughout the 1980s and 1990s, the efficiency of solar panels improved dramatically, and wind turbines grew in size and capacity, moving from kilowatt-scale machines to megawatt-scale giants. Geothermal energy also saw increased attention, leveraging Earth's internal heat.\n\nToday, renewable energy technologies are no longer an experimental fringe but a mature and increasingly cost-competitive cornerstone of global energy supply. Their history is a testament to human ingenuity and the cyclical nature of innovation, as societies rediscover and refine ancient wisdom in the face of new challenges.",
+  "taskTitle": "Answer the questions below.",
+  "overallInstructions": "Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer.",
+  "questions": [
+    {
+      "id": "q1",
+      "questionNumber": 1,
+      "questionText": "Which ancient civilisation designed public bathhouses to use the sun's energy?",
+      "correctAnswer": "The Romans",
+      "wordLimit": "NO MORE THAN THREE WORDS AND/OR A NUMBER"
+    },
+    {
+      "id": "q2",
+      "questionNumber": 2,
+      "questionText": "What form of natural power was used for sailing ships in ancient times?",
+      "correctAnswer": "Wind power",
+      "wordLimit": "NO MORE THAN THREE WORDS AND/OR A NUMBER"
+    },
+    {
+      "id": "q3",
+      "questionNumber": 3,
+      "questionText": "Who developed an early solar steam engine in the 1860s?",
+      "correctAnswer": "Auguste Mouchout",
+      "wordLimit": "NO MORE THAN THREE WORDS AND/OR A NUMBER"
+    },
+    {
+      "id": "q4",
+      "questionNumber": 4,
+      "questionText": "What kind of solar cell was first created by Charles Fritts?",
+      "correctAnswer": "selenium solar",
+      "wordLimit": "NO MORE THAN THREE WORDS AND/OR A NUMBER"
+    },
+    {
+      "id": "q5",
+      "questionNumber": 5,
+      "questionText": "Who built the first automatically operating wind turbine for electricity in the USA?",
+      "correctAnswer": "Charles F. Brush",
+      "wordLimit": "NO MORE THAN THREE WORDS AND/OR A NUMBER"
+    },
+    {
+      "id": "q6",
+      "questionNumber": 6,
+      "questionText": "In which year did Bell Labs develop the initial practical silicon PV cell?",
+      "correctAnswer": "1954",
+      "wordLimit": "NO MORE THAN THREE WORDS AND/OR A NUMBER"
+    }
+  ]
+}
+```

@@ -1,0 +1,94 @@
+```json
+{
+  "passageTitle": "The Double-Edged Sword: Navigating the Psychological Landscape of Adolescent Social Media Use",
+  "passageText": "In the contemporary digital age, social media platforms have become ubiquitous, profoundly integrating into the daily lives of adolescents across the globe. Far from being a mere recreational activity, these platforms now serve as primary arenas for social interaction, identity formation, and information dissemination among young people. However, the burgeoning body of research exploring the psychological ramifications of this pervasive engagement presents a complex and often contradictory picture, prompting academics and caregivers alike to ponder whether social media is a formative tool or a detrimental influence on adolescent well-being.\n\nOn one hand, proponents argue that social media offers unparalleled opportunities for connection and community building. For adolescents, who are intrinsically navigating the turbulent waters of self-discovery and peer acceptance, these platforms can facilitate the development of niche communities where individuals with shared interests or experiences can find support and validation. Marginalized youth, in particular, may discover safe spaces to express their authentic selves without fear of immediate real-world repercussions. Moreover, social media can serve as a conduit for civic engagement, raising awareness for social causes, and fostering a sense of collective identity and agency. The ability to selectively curate digital personas also allows for experimentation with different facets of identity, a crucial developmental task during adolescence.\n\nConversely, the darker aspects of excessive or unguided social media consumption have become increasingly salient. A primary concern revolves around mental health. The constant exposure to idealized, often heavily filtered, depictions of peers' lives can trigger upward social comparison, leading to feelings of inadequacy, envy, and a diminished sense of self-worth. This phenomenon, often exacerbated by the fear of missing out (FOMO), contributes to anxiety and depressive symptoms. Cyberbullying, a virulent form of online aggression, represents another significant threat, with its anonymous nature and rapid dissemination capability amplifying its psychological harm, often leading to severe emotional distress and, in tragic cases, suicidal ideation.\n\nBeyond mental health, social media's impact extends to cognitive and behavioral patterns. The incessant notifications and the variable reward schedule inherent in platform design can foster addictive tendencies, fragment attention spans, and disrupt sleep patterns, especially when devices are used late into the night. This pervasive digital engagement can also displace real-world interactions, potentially hindering the development of crucial face-to-face social skills, empathy, and non-verbal communication. The term 'phubbing' – the act of snubbing someone in a social setting by paying attention to one's phone – encapsulates a common behavioral manifestation of this displacement.\n\nIt is crucial to acknowledge that the relationship between social media use and adolescent well-being is not monolithic; it is mediated by a multitude of individual, social, and contextual factors. Research suggests that pre-existing vulnerabilities, such as low self-esteem or a history of mental health issues, can amplify negative outcomes. Similarly, the *type* of social media engagement matters significantly: passive consumption (e.g., scrolling through feeds) is often correlated with poorer mental health outcomes than active engagement (e.g., direct messaging, content creation). Parental involvement, digital literacy education, and the intrinsic design features of platforms (e.g., algorithmic recommendations, 'like' counts) also play pivotal roles in shaping user experience and psychological impact.\n\nAddressing the challenges necessitates a multi-faceted approach. Educational initiatives aimed at enhancing digital literacy can empower adolescents to critically evaluate online content, understand privacy implications, and manage their digital footprint responsibly. Parents are encouraged to model healthy digital habits, establish clear boundaries, and foster open communication about online experiences. Furthermore, platform developers bear a responsibility to design interfaces that promote well-being rather than addiction, potentially through features that encourage breaks, provide usage data, or mitigate the algorithmic amplification of harmful content. Mental health professionals are also crucial in providing support for those struggling with the adverse effects.\n\nIn conclusion, social media represents a powerful, yet ambivalent, force in the lives of contemporary adolescents. While it offers undeniable benefits in connectivity and identity exploration, its potential for psychological detriment, particularly in the realms of mental health and cognitive development, cannot be overlooked. A nuanced understanding, coupled with concerted efforts from individuals, families, educators, and technology companies, is imperative to cultivate a digital environment that nurtures rather than compromises adolescent well-being. The goal should not be outright prohibition but rather thoughtful integration and mindful engagement with these pervasive digital ecosystems.",
+  "taskTitle": "IELTS Reading: Multiple Choice Questions",
+  "instructions": "Choose the correct letter, A, B, C or D.",
+  "questions": [
+    {
+      "id": "q1",
+      "questionNumber": 1,
+      "questionText": "What is the primary purpose of the passage?",
+      "options": [
+        "A. To advocate for stricter regulations on social media platforms to protect adolescents.",
+        "B. To present a balanced analysis of the positive and negative psychological effects of social media on adolescents.",
+        "C. To argue that social media overwhelmingly harms the mental health of young people.",
+        "D. To explore the historical evolution of social media and its impact on social norms."
+      ],
+      "correctAnswerLetter": "B"
+    },
+    {
+      "id": "q2",
+      "questionNumber": 2,
+      "questionText": "According to the passage, which of the following is NOT explicitly mentioned as a factor that can *mitigate* the negative effects of social media on adolescents?",
+      "options": [
+        "A. The adolescent's pre-existing mental health vulnerabilities.",
+        "B. Parental involvement and guidance.",
+        "C. Education in digital literacy.",
+        "D. The type of social media engagement (active vs. passive)."
+      ],
+      "correctAnswerLetter": "A"
+    },
+    {
+      "id": "q3",
+      "questionNumber": 3,
+      "questionText": "The phrase \"selectively curate digital personas\" (Paragraph 2) primarily suggests that adolescents using social media are able to:",
+      "options": [
+        "A. Accurately represent their true selves to a wider audience.",
+        "B. Create an idealized version of themselves, often leading to psychological distress.",
+        "C. Experiment with different aspects of their identity in a controlled online environment.",
+        "D. Manipulate others' perceptions of them for personal gain."
+      ],
+      "correctAnswerLetter": "C"
+    },
+    {
+      "id": "q4",
+      "questionNumber": 4,
+      "questionText": "The concept of 'phubbing' is introduced in Paragraph 4 as an example of:",
+      "options": [
+        "A. A new form of online social etiquette.",
+        "B. How social media addiction manifests in physical withdrawal symptoms.",
+        "C. The displacement of real-world interactions by digital engagement.",
+        "D. A specific type of cyberbullying behavior."
+      ],
+      "correctAnswerLetter": "C"
+    },
+    {
+      "id": "q5",
+      "questionNumber": 5,
+      "questionText": "What does the passage imply about the relationship between active social media engagement and mental health?",
+      "options": [
+        "A. Active engagement consistently leads to better mental health outcomes than passive consumption.",
+        "B. Active engagement is inherently more beneficial for mental well-being than passive consumption, regardless of content.",
+        "C. While passive consumption is often linked to poorer mental health, active engagement might correlate more positively.",
+        "D. Both active and passive forms of engagement contribute equally to negative mental health outcomes."
+      ],
+      "correctAnswerLetter": "C"
+    },
+    {
+      "id": "q6",
+      "questionNumber": 6,
+      "questionText": "The passage suggests that one of the critical challenges in understanding social media's impact on adolescents is the difficulty in:",
+      "options": [
+        "A. Quantifying the exact number of hours adolescents spend on social media.",
+        "B. Distinguishing between causation and correlation in research findings.",
+        "C. Convincing parents to engage more with their children's online lives.",
+        "D. Developing new social media platforms that are entirely free of negative psychological effects."
+      ],
+      "correctAnswerLetter": "B"
+    },
+    {
+      "id": "q7",
+      "questionNumber": 7,
+      "questionText": "Which of the following is NOT presented as a responsibility of social media platform developers in fostering adolescent well-being?",
+      "options": [
+        "A. Designing interfaces that encourage breaks from usage.",
+        "B. Providing users with data on their screen time and usage patterns.",
+        "C. Mitigating the algorithmic amplification of harmful content.",
+        "D. Directly providing mental health support services to adolescents."
+      ],
+      "correctAnswerLetter": "D"
+    }
+  ]
+}
+```

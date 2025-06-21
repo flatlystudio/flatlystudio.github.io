@@ -1,0 +1,40 @@
+```json
+{
+  "passageTitle": "Marie Curie: A Pioneer in Science",
+  "passageText": "Marie Skłodowska Curie, born Maria Salomea Skłodowska in Warsaw, Congress Poland, Russian Empire, on November 7, 1867, was a remarkable physicist and chemist who conducted pioneering research on radioactivity. Despite facing significant obstacles due to her gender in her native Poland, she pursued her education with determination. She moved to Paris in 1891 to study at the Sorbonne, where she earned degrees in physics and mathematical sciences. It was there she met and married Pierre Curie, a professor at the School of Physics and Chemistry, in 1895.\n\nTheir early research was inspired by Henri Becquerel's discovery of uranium’s mysterious rays. The Curies began to investigate similar phenomena in other elements. Their meticulous work soon led to the groundbreaking realization that certain minerals, like pitchblende, were far more radioactive than pure uranium. This suggested the presence of undiscovered elements. In 1898, they announced the discovery of two new elements: polonium, named after Marie's native country, and radium, from the Latin word for ray.\n\nMarie Curie's dedication and brilliance earned her immense recognition. She shared the 1903 Nobel Prize in Physics with her husband Pierre and Henri Becquerel for their joint research into the radiation phenomena discovered by Professor Becquerel. This made her the first woman to win a Nobel Prize. Tragically, Pierre Curie died in a street accident in 1906. Marie continued their research, becoming the first female professor at the Sorbonne. In 1911, she received her second Nobel Prize, this time in Chemistry, in recognition of her services to the advancement of chemistry by her discovery of the elements radium and polonium, the isolation of radium and the study of the nature and compounds of this remarkable element. She remains the only person to win Nobel Prizes in two different scientific fields.\n\nDuring World War I, Marie Curie dedicated her efforts to developing mobile X-ray units, known as \"petites Curies\" or \"little Curies,\" which helped diagnose injuries of wounded soldiers on the front lines. She personally drove these vehicles, often close to the front. Marie Curie died in 1934 from aplastic anemia, likely caused by prolonged exposure to radiation. Her legacy continues to inspire scientists worldwide, not only for her revolutionary discoveries but also for her unwavering commitment to science and humanity.",
+  "taskTitle": "Complete the sentences below.",
+  "wordLimit": 1,
+  "questions": [
+    {
+      "id": "q1",
+      "questionNumber": "1",
+      "sentenceParts": ["Marie Curie was born in the city of ", ", which was then part of Congress Poland."],
+      "correctAnswer": "Warsaw"
+    },
+    {
+      "id": "q2",
+      "questionNumber": "2",
+      "sentenceParts": ["Marie Curie moved to ", " in 1891 to continue her studies at the Sorbonne."],
+      "correctAnswer": "Paris"
+    },
+    {
+      "id": "q3",
+      "questionNumber": "3",
+      "sentenceParts": ["The Curies' meticulous work indicated that minerals like pitchblende contained previously ", " elements."],
+      "correctAnswer": "undiscovered"
+    },
+    {
+      "id": "q4",
+      "questionNumber": "4",
+      "sentenceParts": ["Marie Curie became the first woman to win a Nobel Prize, which was in the field of ", "."],
+      "correctAnswer": "Physics"
+    },
+    {
+      "id": "q5",
+      "questionNumber": "5",
+      "sentenceParts": ["During World War I, Curie helped implement mobile ", " units for diagnosing soldiers' injuries."],
+      "correctAnswer": "X-ray"
+    }
+  ]
+}
+```

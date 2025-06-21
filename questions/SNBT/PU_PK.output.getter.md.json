@@ -1,0 +1,146 @@
+Berikut adalah 10 soal Penalaran Kuantitatif untuk Seleksi Nasional Berdasarkan Tes (SNBT) di Indonesia:
+
+```json
+[
+  {
+    "id": "pk_q1",
+    "question_text": "Sebuah mobil dapat menempuh jarak 250 km dengan 15 liter bensin. Jika mobil tersebut akan menempuh jarak 500 km, berapa liter bensin yang dibutuhkan?",
+    "topic": "Kuantitas",
+    "options": [
+      { "id": "a", "text": "25 liter" },
+      { "id": "b", "text": "30 liter" },
+      { "id": "c", "text": "35 liter" },
+      { "id": "d", "text": "40 liter" },
+      { "id": "e", "text": "45 liter" }
+    ],
+    "correct_answer_id": "c",
+    "explanation": "Perbandingan jarak dan bensin adalah 250 km : 15 liter. Untuk 500 km, bensin yang dibutuhkan = 500 * 15 / 250 = 30 liter."
+  },
+  {
+    "id": "pk_q2",
+    "question_text": "Sebuah perusahaan memiliki 15 karyawan. Jika 3 karyawan baru bergabung, maka persentase kenaikan jumlah karyawan adalah...",
+    "topic": "Operasi Aritmetika Dasar",
+    "options": [
+      { "id": "a", "text": "15%" },
+      { "id": "b", "text": "20%" },
+      { "id": "c", "text": "25%" },
+      { "id": "d", "text": "30%" },
+      { "id": "e", "text": "35%" }
+    ],
+    "correct_answer_id": "b",
+    "explanation": "Kenaikan jumlah karyawan = 3. Persentase kenaikan = (3 / 15) * 100% = 20%."
+  },
+  {
+    "id": "pk_q3",
+    "question_text": "Sebuah deret bilangan adalah 2, 5, 8, 11, 14, .... Berapa bilangan ke-10 dalam deret tersebut?",
+    "topic": "Hubungan Matematika Sederhana",
+    "options": [
+      { "id": "a", "text": "20" },
+      { "id": "b", "text": "23" },
+      { "id": "c", "text": "26" },
+      { "id": "d", "text": "29" },
+      { "id": "e", "text": "32" }
+    ],
+    "correct_answer_id": "b",
+    "explanation": "Pola deret bilangan adalah +3. Bilangan ke-10 = 2 + (10-1)*3 = 2 + 9*3 = 2 + 27 = 29."
+  },
+  {
+    "id": "pk_q4",
+    "question_text": "Sebuah toko memberikan diskon 15% untuk semua barang. Jika harga awal sebuah baju adalah Rp200.000, berapakah harga baju tersebut setelah diskon?",
+    "topic": "Operasi Aritmetika Dasar",
+    "options": [
+      { "id": "a", "text": "Rp160.000" },
+      { "id": "b", "text": "Rp170.000" },
+      { "id": "c", "text": "Rp180.000" },
+      { "id": "d", "text": "Rp190.000" },
+      { "id": "e", "text": "Rp150.000" }
+    ],
+    "correct_answer_id": "c",
+    "explanation": "Diskon = 15% dari Rp200.000 = 0.15 * 200.000 = Rp30.000. Harga setelah diskon = Rp200.000 - Rp30.000 = Rp170.000."
+  },
+  {
+    "id": "pk_q5",
+    "question_text": "Sebuah mobil memiliki kecepatan rata-rata 60 km/jam. Jika mobil tersebut menempuh jarak 210 km, berapa jam waktu yang dibutuhkan?",
+    "topic": "Kuantitas",
+    "options": [
+      { "id": "a", "text": "3 jam" },
+      { "id": "b", "text": "3,5 jam" },
+      { "id": "c", "text": "4 jam" },
+      { "id": "d", "text": "4,5 jam" },
+      { "id": "e", "text": "5 jam" }
+    ],
+    "correct_answer_id": "b",
+    "explanation": "Waktu yang dibutuhkan = jarak / kecepatan = 210 km / 60 km/jam = 3,5 jam."
+  },
+  {
+    "id": "pk_q6",
+    "question_text": "Sebuah perusahaan memiliki 20 karyawan. Jika 4 karyawan resign, maka persentase penurunan jumlah karyawan adalah...",
+    "topic": "Operasi Aritmetika Dasar",
+    "options": [
+      { "id": "a", "text": "10%" },
+      { "id": "b", "text": "15%" },
+      { "id": "c", "text": "20%" },
+      { "id": "d", "text": "25%" },
+      { "id": "e", "text": "30%" }
+    ],
+    "correct_answer_id": "c",
+    "explanation": "Penurunan jumlah karyawan = 4. Persentase penurunan = (4 / 20) * 100% = 20%."
+  },
+  {
+    "id": "pk_q7",
+    "question_text": "Sebuah deret bilangan adalah 3, 6, 9, 12, 15, .... Berapa bilangan ke-8 dalam deret tersebut?",
+    "topic": "Hubungan Matematika Sederhana",
+    "options": [
+      { "id": "a", "text": "21" },
+      { "id": "b", "text": "24" },
+      { "id": "c", "text": "27" },
+      { "id": "d", "text": "30" },
+      { "id": "e", "text": "33" }
+    ],
+    "correct_answer_id": "b",
+    "explanation": "Pola deret bilangan adalah +3. Bilangan ke-8 = 3 + (8-1)*3 = 3 + 7*3 = 3 + 21 = 24."
+  },
+  {
+    "id": "pk_q8",
+    "question_text": "Sebuah toko memberikan diskon 20% untuk semua barang. Jika harga awal sebuah baju adalah Rp150.000, berapakah harga baju tersebut setelah diskon?",
+    "topic": "Operasi Aritmetika Dasar",
+    "options": [
+      { "id": "a", "text": "Rp100.000" },
+      { "id": "b", "text": "Rp110.000" },
+      { "id": "c", "text": "Rp120.000" },
+      { "id": "d", "text": "Rp130.000" },
+      { "id": "e", "text": "Rp140.000" }
+    ],
+    "correct_answer_id": "c",
+    "explanation": "Diskon = 20% dari Rp150.000 = 0.20 * 150.000 = Rp30.000. Harga setelah diskon = Rp150.000 - Rp30.000 = Rp120.000."
+  },
+  {
+    "id": "pk_q9",
+    "question_text": "Sebuah mobil memiliki kecepatan rata-rata 50 km/jam. Jika mobil tersebut menempuh jarak 150 km, berapa jam waktu yang dibutuhkan?",
+    "topic": "Kuantitas",
+    "options": [
+      { "id": "a", "text": "2 jam" },
+      { "id": "b", "text": "3 jam" },
+      { "id": "c", "text": "3,5 jam" },
+      { "id": "d", "text": "4 jam" },
+      { "id": "e", "text": "5 jam" }
+    ],
+    "correct_answer_id": "b",
+    "explanation": "Waktu yang dibutuhkan = jarak / kecepatan = 150 km / 50 km/jam = 3 jam."
+  },
+  {
+    "id": "pk_q10",
+    "question_text": "Sebuah perusahaan memiliki 25 karyawan. Jika 5 karyawan baru bergabung, maka persentase kenaikan jumlah karyawan adalah...",
+    "topic": "Operasi Aritmetika Dasar",
+    "options": [
+      { "id": "a", "text": "15%" },
+      { "id": "b", "text": "20%" },
+      { "id": "c", "text": "25%" },
+      { "id": "d", "text": "30%" },
+      { "id": "e", "text": "35%" }
+    ],
+    "correct_answer_id": "b",
+    "explanation": "Kenaikan jumlah karyawan = 5. Persentase kenaikan = (5 / 25) * 100% = 20%."
+  }
+]
+```

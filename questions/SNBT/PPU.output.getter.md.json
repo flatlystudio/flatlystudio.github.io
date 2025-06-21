@@ -1,0 +1,278 @@
+Berikut adalah 20 soal Pengetahuan & Pemahaman Umum dalam format JSON:
+
+```json
+{
+  "questions": [
+    {
+      "id": "q1",
+      "topic": "Sinonim & Antonim",
+      "questionText": "Kata 'gigih' paling mendekati sinonim dari...",
+      "options": [
+        {"id": "a", "text": "Rajin"},
+        {"id": "b", "text": "Malas"},
+        {"id": "c", "text": "Kuat"},
+        {"id": "d", "text": "Lemah"}
+      ],
+      "correctAnswerId": "a",
+      "explanation": "Kata 'gigih' berarti tekun dan rajin."
+    },
+    {
+      "id": "q2",
+      "topic": "Ide Pokok & Makna",
+      "passage": "Teknologi informasi dan komunikasi telah berkembang pesat dalam beberapa dekade terakhir. Hal ini membawa dampak signifikan pada berbagai aspek kehidupan manusia.",
+      "questionText": "Paragraf tersebut mengemukakan tentang...",
+      "options": [
+        {"id": "a", "text": "Dampak negatif teknologi"},
+        {"id": "b", "text": "Perkembangan teknologi informasi dan komunikasi"},
+        {"id": "c", "text": "Manfaat teknologi bagi lingkungan"},
+        {"id": "d", "text": "Sejarah teknologi informasi"}
+      ],
+      "correctAnswerId": "b",
+      "explanation": "Paragraf tersebut membahas perkembangan teknologi informasi dan komunikasi."
+    },
+    {
+      "id": "q3",
+      "topic": "Kata & Bentuk Kata",
+      "questionText": "Bentuk kata yang benar untuk 'ke-ajar-an' adalah...",
+      "options": [
+        {"id": "a", "text": "Kajaran"},
+        {"id": "b", "text": "Pengajaran"},
+        {"id": "c", "text": "Kajar"},
+        {"id": "d", "text": "Ajaran"}
+      ],
+      "correctAnswerId": "b",
+      "explanation": "Bentuk kata yang benar adalah 'pengajaran'."
+    },
+    {
+      "id": "q4",
+      "topic": "Kesesuaian Wacana",
+      "passage": "Saya suka membaca buku karena dapat menambah pengetahuan. ... itu, saya juga dapat memahami berbagai perspektif.",
+      "questionText": "Kata penghubung yang tepat untuk melanjutkan kalimat tersebut adalah...",
+      "options": [
+        {"id": "a", "text": "Selain"},
+        {"id": "b", "text": "Namun"},
+        {"id": "c", "text": "Oleh karena"},
+        {"id": "d", "text": "Sebab"}
+      ],
+      "correctAnswerId": "a",
+      "explanation": "Kata penghubung yang tepat adalah 'Selain'."
+    },
+    {
+      "id": "q5",
+      "topic": "Hubungan Antar Paragraf",
+      "passage": "Paragraf pertama membahas tentang pentingnya pendidikan. Paragraf kedua menjelaskan tentang dampak pendidikan terhadap masyarakat.",
+      "questionText": "Paragraf kedua berfungsi sebagai ... terhadap paragraf pertama.",
+      "options": [
+        {"id": "a", "text": "Pengembangan ide"},
+        "id": "b", "text": "Penjelasan tambahan"},
+        {"id": "c", "text": "Kesimpulan"},
+        {"id": "d", "text": "Pengantar"}
+      ],
+      "correctAnswerId": "b",
+      "explanation": "Paragraf kedua berfungsi sebagai penjelasan tambahan."
+    },
+    {
+      "id": "q6",
+      "topic": "Umum",
+      "questionText": "Apa nama ibu kota Indonesia?",
+      "options": [
+        {"id": "a", "text": "Jakarta"},
+        {"id": "b", "text": "Bandung"},
+        {"id": "c", "text": "Surabaya"},
+        {"id": "d", "text": "Medan"}
+      ],
+      "correctAnswerId": "a",
+      "explanation": "Ibu kota Indonesia adalah Jakarta."
+    },
+    {
+      "id": "q7",
+      "topic": "Sinonim & Antonim",
+      "questionText": "Kata 'cepat' paling mendekati antonim dari...",
+      "options": [
+        {"id": "a", "text": "Lambat"},
+        {"id": "b", "text": "Kuat"},
+        {"id": "c", "text": "Lemah"},
+        {"id": "d", "text": "Ringan"}
+      ],
+      "correctAnswerId": "a",
+      "explanation": "Kata 'cepat' paling mendekati antonim dari 'lambat'."
+    },
+    {
+      "id": "q8",
+      "topic": "Ide Pokok & Makna",
+      "passage": "Kesehatan mental sangat penting bagi kesejahteraan seseorang. Oleh karena itu, kita harus memperhatikan kesehatan mental kita.",
+      "questionText": "Simpulan dari paragraf tersebut adalah...",
+      "options": [
+        {"id": "a", "text": "Kesehatan mental tidak penting"},
+        {"id": "b", "text": "Kesehatan mental sangat penting"},
+        {"id": "c", "text": "Kesehatan fisik lebih penting"},
+        {"id": "d", "text": "Kesehatan mental tidak berpengaruh"}
+      ],
+      "correctAnswerId": "b",
+      "explanation": "Simpulan dari paragraf tersebut adalah kesehatan mental sangat penting."
+    },
+    {
+      "id": "q9",
+      "topic": "Kata & Bentuk Kata",
+      "questionText": "Bentuk kata yang benar untuk 'ber-main' adalah...",
+      "options": [
+        {"id": "a", "text": "Bermain"},
+        {"id": "b", "text": "Beremain"},
+        {"id": "c", "text": "Main"},
+        {"id": "d", "text": "Ber-main"}
+      ],
+      "correctAnswerId": "a",
+      "explanation": "Bentuk kata yang benar adalah 'bermain'."
+    },
+    {
+      "id": "q10",
+      "topic": "Kesesuaian Wacana",
+      "passage": "Saya ingin pergi ke pantai. ... itu, saya harus mempersiapkan diri.",
+      "questionText": "Kata penghubung yang tepat untuk melanjutkan kalimat tersebut adalah...",
+      "options": [
+        {"id": "a", "text": "Namun"},
+        {"id": "b", "text": "Oleh karena"},
+        {"id": "c", "text": "Sebab"},
+        {"id": "d", "text": "Untuk"}
+      ],
+      "correctAnswerId": "b",
+      "explanation": "Kata penghubung yang tepat adalah 'Oleh karena'."
+    },
+    {
+      "id": "q11",
+      "topic": "Hubungan Antar Paragraf",
+      "passage": "Paragraf pertama membahas tentang pentingnya lingkungan. Paragraf kedua menjelaskan tentang dampak polusi terhadap lingkungan.",
+      "questionText": "Paragraf kedua berfungsi sebagai ... terhadap paragraf pertama.",
+      "options": [
+        {"id": "a", "text": "Pengembangan ide"},
+        {"id": "b", "text": "Penjelasan tambahan"},
+        {"id": "c", "text": "Kesimpulan"},
+        {"id": "d", "text": "Pengantar"}
+      ],
+      "correctAnswerId": "b",
+      "explanation": "Paragraf kedua berfungsi sebagai penjelasan tambahan."
+    },
+    {
+      "id": "q12",
+      "topic": "Umum",
+      "questionText": "Siapa nama presiden Indonesia saat ini?",
+      "options": [
+        {"id": "a", "text": "Joko Widodo"},
+        {"id": "b", "text": "Prabowo Subianto"},
+        {"id": "c", "text": "Jusuf Kalla"},
+        {"id": "d", "text": "Ma'ruf Amin"}
+      ],
+      "correctAnswerId": "a",
+      "explanation": "Presiden Indonesia saat ini adalah Joko Widodo."
+    },
+    {
+      "id": "q13",
+      "topic": "Sinonim & Antonim",
+      "questionText": "Kata 'besar' paling mendekati sinonim dari...",
+      "options": [
+        {"id": "a", "text": "Kecil"},
+        {"id": "b", "text": "Luas"},
+        {"id": "c", "text": "Panjang"},
+        {"id": "d", "text": "Lebar"}
+      ],
+      "correctAnswerId": "b",
+      "explanation": "Kata 'besar' paling mendekati sinonim dari 'luas'."
+    },
+    {
+      "id": "q14",
+      "topic": "Ide Pokok & Makna",
+      "passage": "Pendidikan karakter sangat penting bagi generasi muda. Oleh karena itu, kita harus memperhatikan pendidikan karakter.",
+      "questionText": "Ide pokok dari paragraf tersebut adalah...",
+      "options": [
+        {"id": "a", "text": "Pendidikan karakter tidak penting"},
+        {"id": "b", "text": "Pendidikan karakter sangat penting"},
+        {"id": "c", "text": "Pendidikan karakter tidak berpengaruh"},
+        {"id": "d", "text": "Pendidikan karakter hanya untuk generasi muda"}
+      ],
+      "correctAnswerId": "b",
+      "explanation": "Ide pokok dari paragraf tersebut adalah pendidikan karakter sangat penting."
+    },
+    {
+      "id": "q15",
+      "topic": "Kata & Bentuk Kata",
+      "questionText": "Bentuk kata yang benar untuk 'di-ajar-i' adalah...",
+      "options": [
+        {"id": "a", "text": "Diajari"},
+        {"id": "b", "text": "Diajar"},
+        {"id": "c", "text": "Diajarkan"},
+        {"id": "d", "text": "Ajari"}
+      ],
+      "correctAnswerId": "a",
+      "explanation": "Bentuk kata yang benar adalah 'diajari'."
+    },
+    {
+      "id": "q16",
+      "topic": "Kesesuaian Wacana",
+      "passage": "Saya ingin menjadi dokter. ... itu, saya harus belajar dengan giat.",
+      "questionText": "Kata penghubung yang tepat untuk melanjutkan kalimat tersebut adalah...",
+      "options": [
+        {"id": "a", "text": "Namun"},
+        {"id": "b", "text": "Oleh karena"},
+        {"id": "c", "text": "Sebab"},
+        {"id": "d", "text": "Untuk"}
+      ],
+      "correctAnswerId": "b",
+      "explanation": "Kata penghubung yang tepat adalah 'Oleh karena'."
+    },
+    {
+      "id": "q17",
+      "topic": "Hubungan Antar Paragraf",
+      "passage": "Paragraf pertama membahas tentang pentingnya kesehatan. Paragraf kedua menjelaskan tentang dampak penyakit terhadap kesehatan.",
+      "questionText": "Paragraf kedua berfungsi sebagai ... terhadap paragraf pertama.",
+      "options": [
+        {"id": "a", "text": "Pengembangan ide"},
+        {"id": "b", "text": "Penjelasan tambahan"},
+        {"id": "c", "text": "Kesimpulan"},
+        {"id": "d", "text": "Pengantar"}
+      ],
+      "correctAnswerId": "b",
+      "explanation": "Paragraf kedua berfungsi sebagai penjelasan tambahan."
+    },
+    {
+      "id": "q18",
+      "topic": "Umum",
+      "questionText": "Apa nama ibukota negara Australia?",
+      "options": [
+        {"id": "a", "text": "Canberra"},
+        {"id": "b", "text": "Sydney"},
+        {"id": "c", "text": "Melbourne"},
+        {"id": "d", "text": "Perth"}
+      ],
+      "correctAnswerId": "a",
+      "explanation": "Ibukota negara Australia adalah Canberra."
+    },
+    {
+      "id": "q19",
+      "topic": "Sinonim & Antonim",
+      "questionText": "Kata 'suka' paling mendekati antonim dari...",
+      "options": [
+        {"id": "a", "text": "Cinta"},
+        {"id": "b", "text": "Duka"},
+        {"id": "c", "text": "Benci"},
+        {"id": "d", "text": "Rasa"}
+      ],
+      "correctAnswerId": "c",
+      "explanation": "Kata 'suka' paling mendekati antonim dari 'benci'."
+    },
+    {
+      "id": "q20",
+      "topic": "Ide Pokok & Makna",
+      "passage": "Teknologi digital telah berkembang pesat dalam beberapa tahun terakhir. Hal ini membawa dampak signifikan pada berbagai aspek kehidupan.",
+      "questionText": "Simpulan dari paragraf tersebut adalah...",
+      "options": [
+        {"id": "a", "text": "Teknologi digital tidak berpengaruh"},
+        {"id": "b", "text": "Teknologi digital membawa dampak signifikan"},
+        {"id": "c", "text": "Teknologi digital hanya untuk komunikasi"},
+        {"id": "d", "text": "Teknologi digital tidak berkembang"}
+      ],
+      "correctAnswerId": "b",
+      "explanation": "Simpulan dari paragraf tersebut adalah teknologi digital membawa dampak signifikan."
+    }
+  ]
+}
+```
